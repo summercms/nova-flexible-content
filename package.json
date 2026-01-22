@@ -17,7 +17,7 @@
         "@vueform/multiselect": "^2.3.3",
         "form-backend-validation": "^2.3.3",
         "laravel-mix": "^6.0.41",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "postcss": "^8.3.11",
         "resolve-url-loader": "^5.0.0",
         "sass": "^1.32.8",
